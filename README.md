@@ -4,7 +4,7 @@
 
 Created with CodeSandbox
 
-#MERN TO-DO APP
+#MERN TO-DO APP#
 
 **About the Application**
 This is a full-stack To-Do List web application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to manage their daily tasks efficiently with features like login/signup, task prioritization, and status tracking.
