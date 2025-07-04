@@ -80,3 +80,7 @@ MongoDB with Mongoose
 
 https://backend-ge16.onrender.com
 
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/cd9da96b-d8ae-46d5-a1f4-83dc426ab63f)
+
